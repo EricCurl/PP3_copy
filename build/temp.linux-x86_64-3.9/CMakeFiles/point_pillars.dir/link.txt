@@ -1,0 +1,1 @@
+/bin/c++ -fPIC -DVERSION_INFO=\"0.0.1\" -O3 -DNDEBUG -flto -fno-fat-lto-objects -shared -Wl,-soname,point_pillars.cpython-39-x86_64-linux-gnu.so -o ../lib.linux-x86_64-3.9/point_pillars.cpython-39-x86_64-linux-gnu.so CMakeFiles/point_pillars.dir/src/point_pillars.cpp.o 

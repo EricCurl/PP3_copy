@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ecurl/PP/PointPillars/build/temp.linux-x86_64-3.9/CMakeFiles/_CMakeLTOTest-CXX/src/foo.cpp
+

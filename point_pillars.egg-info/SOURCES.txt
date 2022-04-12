@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+point_pillars.egg-info/PKG-INFO
+point_pillars.egg-info/SOURCES.txt
+point_pillars.egg-info/dependency_links.txt
+point_pillars.egg-info/not-zip-safe
+point_pillars.egg-info/top_level.txt

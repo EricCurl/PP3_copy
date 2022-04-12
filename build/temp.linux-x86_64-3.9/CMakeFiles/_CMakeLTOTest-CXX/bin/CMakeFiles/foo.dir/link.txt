@@ -1,0 +1,2 @@
+"/bin/gcc-ar-9" cr libfoo.a CMakeFiles/foo.dir/foo.cpp.o
+"/bin/gcc-ranlib-9" libfoo.a
